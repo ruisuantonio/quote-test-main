@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Evitar o perigo não é mais seguro a longo prazo do que a exposição. — Helen Keller
+> **Citacao:** Onde a vontade é grande, as dificuldades não podem ser grandes. — Niccolo Machiavelli
 
 fim do arquivo

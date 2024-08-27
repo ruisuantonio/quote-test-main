@@ -1,5 +1,5 @@
 # Daily Quote
 
-> **Citacao:** Although the world is full of suffering, it is also full of the overcoming of it. — Helen Keller
+> **Citacao:** Where the willingness is great, the difficulties cannot be great. — Niccolo Machiavelli
 
 fim do arquivo
