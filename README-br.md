@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Em todos os assuntos humanos há esforços e há resultados, e a força do esforço é a medida do resultado. — James Allen
+> **Citacao:** O dinheiro é apenas uma ferramenta. Ele o levará aonde você quiser, mas não o substituirá como motorista. — Ayn Rand
 
 fim do arquivo

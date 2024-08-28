@@ -1,5 +1,5 @@
 # Daily Quote
 
-> **Citacao:** In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result. — James Allen
+> **Citacao:** Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. — Ayn Rand
 
 fim do arquivo
