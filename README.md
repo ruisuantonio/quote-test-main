@@ -1,5 +1,5 @@
 # Daily Quote
 
-> **Citacao:** Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. — Ayn Rand
+> **Citacao:** If you need inspiration, don't do it. — Elon Musk
 
 fim do arquivo

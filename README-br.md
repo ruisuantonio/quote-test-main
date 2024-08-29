@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** O dinheiro é apenas uma ferramenta. Ele o levará aonde você quiser, mas não o substituirá como motorista. — Ayn Rand
+> **Citacao:** Se você precisa de inspiração, não faça isso. — Elon Musk
 
 fim do arquivo
