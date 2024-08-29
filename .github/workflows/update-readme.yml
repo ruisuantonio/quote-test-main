@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --no-index --find-links=./libs requests deep-translator chardet
+          pip install --no-index --find-links=./libs requests deep-translator chardet charset-normalizer
 
       - name: Run scripts/update-quote.py
         run: |
