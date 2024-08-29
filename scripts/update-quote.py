@@ -1,4 +1,5 @@
 import sys
+import requests
 sys.path.insert(0, './libs')
 
 def get_quote():
