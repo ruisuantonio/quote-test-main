@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests googletrans==4.0.0-rc1 deep_translator
+          pip install --no-index --find-links=./libs requests deep-translator chardet
 
       - name: Run scripts/update-quote.py
         run: |

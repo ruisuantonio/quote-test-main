@@ -1,6 +1,5 @@
-import requests
-from deep_translator import GoogleTranslator
-import chardet
+import sys
+sys.path.insert(0, './libs')
 
 def get_quote():
     response = requests.get("https://zenquotes.io/api/random")
