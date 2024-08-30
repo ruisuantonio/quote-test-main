@@ -41,7 +41,7 @@ jobs:
     - name: Run Script to Check and Add Footer
       if: steps.check_commit.outcome == 'success'
       run: |
-        python your_script.py
+        python footer/footer-update.py
 
     - name: Commit changes
       if: steps.check_commit.outcome == 'success'
