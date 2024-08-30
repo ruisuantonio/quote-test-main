@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Vivi com vários mestres Zen — todos eles gatos. — Eckhart Tolle
+> **Citacao:** Nada neste mundo vale a pena ter ou fazer, a menos que signifique esforço, dor, dificuldade. — Theodore Roosevelt
 
 fim do arquivo
