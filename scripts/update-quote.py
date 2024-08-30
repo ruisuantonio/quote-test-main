@@ -33,11 +33,12 @@ def update_readme(file_path, new_quote):
                 file.write(line)
 
 if __name__ == "__main__":
-    # Obtém a citação em inglês
     quote_en = get_quote()
     if quote_en:
-        update_readme("README.md", quote_en)
+        if os.getenv('GITHUB_ACTIONS') == 'true':
+            update_readme("README.md", quote_en)
     
-        # Traduz a citação para o português e atualiza o README-br.md
-        quote_pt = translate_quote(quote_en, dest_language='pt')
-        update_readme("README-br.md", quote_pt)
+            quote_pt = translate_quote(quote_en, dest_language='pt')
+            update_readme("README-br.md", quote_pt)
+        else:
+        print("This script is not running on GitHub Actions.")
