@@ -1,5 +1,4 @@
 import os
-print(os.getcwd())
 
 footer = """
 <watermark-footer>
