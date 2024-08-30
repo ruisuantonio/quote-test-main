@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você precisa de inspiração, não faça isso. — Elon Musk
+> **Citacao:** Vivi com vários mestres Zen — todos eles gatos. — Eckhart Tolle
 
 fim do arquivo

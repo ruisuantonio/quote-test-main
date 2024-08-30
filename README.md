@@ -1,5 +1,5 @@
 # Daily Quote
 
-> **Citacao:** If you need inspiration, don't do it. — Elon Musk
+> **Citacao:** I have lived with several Zen masters -- all of them cats. — Eckhart Tolle
 
 fim do arquivo
