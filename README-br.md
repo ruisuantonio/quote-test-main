@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nada neste mundo vale a pena ter ou fazer, a menos que signifique esforço, dor, dificuldade. — Theodore Roosevelt
+> **Citacao:** Em vez de se sentir intimidado pelas limitações, inspire-se para encontrar novas maneiras de contorná-las. — Ralph Marston
 
 fim do arquivo

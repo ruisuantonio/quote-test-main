@@ -1,5 +1,5 @@
 # Daily Quote
 
-> **Citacao:** Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty. — Theodore Roosevelt
+> **Citacao:** Instead of being intimidated by the limitations, be inspired to find new ways around them. — Ralph Marston
 
 fim do arquivo
