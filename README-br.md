@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Em vez de se sentir intimidado pelas limitações, inspire-se para encontrar novas maneiras de contorná-las. — Ralph Marston
+> **Citacao:** Os melhores de nós às vezes comem nossas palavras. — Albus Dumbledore
 
 fim do arquivo
