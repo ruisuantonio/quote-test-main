@@ -20,24 +20,18 @@ jobs:
 
       - name: Cache pip
         uses: actions/cache@v3
+        id: cache-pip
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-${{ github.run_id }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}-
             ${{ runner.os }}-pip-
 
-      - name: COnfigure Environment
-        run: |
-          python -m venv myenv
-          source myenv/bin/activate
-          pip install httpx==0.13.3 chardet==3.0.4
-
-      - name: Install dependencies
+      - name: Install Dependencies
+        if: steps.cache-pip.outputs.cache-hit != 'true'
         run: |
           python -m pip install --upgrade pip
-          pip install --no-index --find-links=./libs -r requirements.txt
-          
+          pip install -r requirements.txt 
 
       - name: Run scripts/update-quote.py
         run: |
