@@ -41,4 +41,4 @@ if __name__ == "__main__":
             quote_pt = translate_quote(quote_en, dest_language='pt')
             update_readme("README-br.md", quote_pt)
         else:
-        print("This script is not running on GitHub Actions.")
+            print("This script is not running on GitHub Actions.")
