@@ -3,7 +3,7 @@ import os
 footer = """
 <watermark-footer>
 <p align="center">
-  <a href="https://github.com/ruisuan/ruisuan/blob/stable/contribute.md">Contribute ☕</a>
+  <a href="https://github.com/ruisuan/ruisuan/blob/main/contribute.md">Contribute ☕</a>
 </p>
 </watermark-footer>
 """
