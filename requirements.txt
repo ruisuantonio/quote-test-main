@@ -1,0 +1,4 @@
+sys
+requests
+deep_translator
+chardet
