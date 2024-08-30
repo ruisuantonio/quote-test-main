@@ -6,12 +6,6 @@ fim do arquivo
 
 <watermark-footer>
 <p align="center">
-  <a href="https://github.com/ruisuan/ruisuan/blob/stable/contribute.md">Contribute ☕</a> •
-</p>
-</watermark-footer>
-
-<watermark-footer>
-<p align="center">
   <a href="https://github.com/ruisuan/ruisuan/blob/stable/contribute.md">Contribute ☕</a>
 </p>
 </watermark-footer>
