@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os melhores de nós às vezes comem nossas palavras. — Albus Dumbledore
+> **Citacao:** O maior e único crítico vive na sua percepção da percepção das pessoas sobre você, e não na percepção das pessoas sobre você. — Criss Jami
 
 fim do arquivo
