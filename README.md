@@ -1,5 +1,5 @@
 # Daily Quote
 
-> **Citacao:** If you need inspiration, don't do it. — Elon Musk
+> **Citacao:** The best of us sometimes eat our words.   — Albus Dumbledore
 
 fim do arquivo

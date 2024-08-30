@@ -1,5 +1,5 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você precisa de inspiração, não faça isso. — Elon Musk
+> **Citacao:** Os melhores de nós às vezes comem nossas palavras. — Albus Dumbledore
 
 fim do arquivo
