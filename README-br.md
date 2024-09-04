@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Uma cabana cheia de risos é mais rica do que um palácio cheio de tristeza. — Provérbio Zen
+> **Citacao:** A paciência é uma planta amarga, mas seu fruto é doce. — Provérbio chinês
 
 fim do arquivo
 

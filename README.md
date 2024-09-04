@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A hut full of laughter is richer than a palace full of sadness. — Zen Proverb
+> **Citacao:** Patience is a bitter plant, but its fruit is sweet. — Chinese Proverb
 
 fim do arquivo
 
