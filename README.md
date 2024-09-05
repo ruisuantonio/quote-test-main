@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Patience is a bitter plant, but its fruit is sweet. — Chinese Proverb
+> **Citacao:** Success on the outside means nothing unless you also have success within. — Robin Sharma
 
 fim do arquivo
 

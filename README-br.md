@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A paciência é uma planta amarga, mas seu fruto é doce. — Provérbio chinês
+> **Citacao:** O sucesso exterior não significa nada a menos que você também tenha sucesso interior. — Robin Sharma
 
 fim do arquivo
 
