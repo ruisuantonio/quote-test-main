@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O sucesso exterior não significa nada a menos que você também tenha sucesso interior. — Robin Sharma
+> **Citacao:** A verdade é fruto do silêncio e da meditação. — Isaac Newton
 
 fim do arquivo
 

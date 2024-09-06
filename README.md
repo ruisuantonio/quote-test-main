@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Success on the outside means nothing unless you also have success within. — Robin Sharma
+> **Citacao:** Truth is the offspring of silence and meditation. — Isaac Newton
 
 fim do arquivo
 
