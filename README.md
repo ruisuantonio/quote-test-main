@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Truth is the offspring of silence and meditation. — Isaac Newton
+> **Citacao:** Great things happen to those who don't stop believing, trying, learning, and being grateful. — Roy T. Bennett
 
 fim do arquivo
 

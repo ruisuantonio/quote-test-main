@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A verdade é fruto do silêncio e da meditação. — Isaac Newton
+> **Citacao:** Grandes coisas acontecem àqueles que não param de acreditar, tentar, aprender e ser gratos. — Roy T. Bennett
 
 fim do arquivo
 
