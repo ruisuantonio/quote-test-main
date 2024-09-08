@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Great things happen to those who don't stop believing, trying, learning, and being grateful. — Roy T. Bennett
+> **Citacao:** Success is about creating value. — Candice Carpenter
 
 fim do arquivo
 

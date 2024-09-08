@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Grandes coisas acontecem àqueles que não param de acreditar, tentar, aprender e ser gratos. — Roy T. Bennett
+> **Citacao:** Sucesso é criar valor. — Candice Carpenter
 
 fim do arquivo
 
