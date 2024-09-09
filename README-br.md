@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Sucesso é criar valor. — Candice Carpenter
+> **Citacao:** Espere o melhor de si mesmo e então faça o que for necessário para torná-lo realidade. — Ralph Marston
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Success is about creating value. — Candice Carpenter
+> **Citacao:** Expect the best of yourself, and then do what is necessary to make it a reality. — Ralph Marston
 
 fim do arquivo
 
