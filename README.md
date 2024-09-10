@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Expect the best of yourself, and then do what is necessary to make it a reality. — Ralph Marston
+> **Citacao:** All leaders are readers. — Jim Rohn
 
 fim do arquivo
 

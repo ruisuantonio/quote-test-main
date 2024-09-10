@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Espere o melhor de si mesmo e então faça o que for necessário para torná-lo realidade. — Ralph Marston
+> **Citacao:** Todos os líderes são leitores. — Jim Rohn
 
 fim do arquivo
 
