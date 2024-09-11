@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Todos os líderes são leitores. — Jim Rohn
+> **Citacao:** É muito melhor fazer o bem de uma forma que ninguém saiba nada sobre isso. — Leo Tolstoy
 
 fim do arquivo
 
