@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nossa vida é o que nossos pensamentos fazem dela. Um homem descobrirá que, à medida que altera seus pensamentos em relação às coisas e outras pessoas, as coisas e outras pessoas se alterarão em relação a ele. — James Allen
+> **Citacao:** Pessoas bem-sucedidas estão sempre procurando oportunidades para ajudar os outros. Pessoas malsucedidas estão sempre perguntando: 'O que isso tem para mim?' — Brian Tracy
 
 fim do arquivo
 
