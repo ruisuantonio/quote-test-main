@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' — Brian Tracy
+> **Citacao:** Sometimes things become possible if we want them bad enough. — T.S. Eliot
 
 fim do arquivo
 

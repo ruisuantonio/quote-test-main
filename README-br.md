@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Pessoas bem-sucedidas estão sempre procurando oportunidades para ajudar os outros. Pessoas malsucedidas estão sempre perguntando: 'O que isso tem para mim?' — Brian Tracy
+> **Citacao:** Às vezes as coisas se tornam possíveis se as queremos muito. — T.S. Eliot
 
 fim do arquivo
 
