@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Sometimes things become possible if we want them bad enough. — T.S. Eliot
+> **Citacao:** Keep smiling, because life is a beautiful thing and there's so much to smile about. — Marilyn Monroe
 
 fim do arquivo
 

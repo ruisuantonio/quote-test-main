@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Às vezes as coisas se tornam possíveis se as queremos muito. — T.S. Eliot
+> **Citacao:** Continue sorrindo, porque a vida é uma coisa linda e há tantos motivos para sorrir. — Marilyn Monroe
 
 fim do arquivo
 
