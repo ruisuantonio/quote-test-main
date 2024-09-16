@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Keep smiling, because life is a beautiful thing and there's so much to smile about. — Marilyn Monroe
+> **Citacao:** Become the kind of leader that people would follow voluntarily, even if you had no title or position. — Brian Tracy
 
 fim do arquivo
 

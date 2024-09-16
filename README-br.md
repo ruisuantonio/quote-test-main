@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Continue sorrindo, porque a vida é uma coisa linda e há tantos motivos para sorrir. — Marilyn Monroe
+> **Citacao:** Torne-se o tipo de líder que as pessoas seguiriam voluntariamente, mesmo que você não tivesse nenhum título ou posição. — Brian Tracy
 
 fim do arquivo
 
