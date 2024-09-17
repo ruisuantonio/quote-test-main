@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Become the kind of leader that people would follow voluntarily, even if you had no title or position. — Brian Tracy
+> **Citacao:** Never confuse a single defeat with a final defeat. — F. Scott Fitzgerald
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Torne-se o tipo de líder que as pessoas seguiriam voluntariamente, mesmo que você não tivesse nenhum título ou posição. — Brian Tracy
+> **Citacao:** Nunca confunda uma derrota única com uma derrota final. — F. Scott Fitzgerald
 
 fim do arquivo
 
