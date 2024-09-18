@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Never confuse a single defeat with a final defeat. — F. Scott Fitzgerald
+> **Citacao:** You can, you should, and if you're brave enough to start, you will. — Stephen King
 
 fim do arquivo
 

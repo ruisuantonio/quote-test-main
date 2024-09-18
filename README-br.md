@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nunca confunda uma derrota única com uma derrota final. — F. Scott Fitzgerald
+> **Citacao:** Você pode, você deve, e se você for corajoso o suficiente para começar, você vai. — Stephen King
 
 fim do arquivo
 
