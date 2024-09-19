@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Você pode, você deve, e se você for corajoso o suficiente para começar, você vai. — Stephen King
+> **Citacao:** Você foi colocado nesta terra para atingir o seu melhor, para viver seu propósito e fazê-lo com coragem. — Steve Maraboli
 
 fim do arquivo
 

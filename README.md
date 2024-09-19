@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** You can, you should, and if you're brave enough to start, you will. — Stephen King
+> **Citacao:** You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. — Steve Maraboli
 
 fim do arquivo
 
