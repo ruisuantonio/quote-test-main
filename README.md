@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. — Steve Maraboli
+> **Citacao:** When the fish is caught we pay no more attention to the trap. — Huang Po
 
 fim do arquivo
 
