@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando o peixe é capturado, não damos mais atenção à armadilha. — Huang Po
+> **Citacao:** O ato de dar o primeiro passo é o que separa os vencedores dos perdedores. — Brian Tracy
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When the fish is caught we pay no more attention to the trap. — Huang Po
+> **Citacao:** The act of taking the first step is what separates the winners from the losers. — Brian Tracy
 
 fim do arquivo
 
