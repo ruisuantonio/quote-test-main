@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The act of taking the first step is what separates the winners from the losers. — Brian Tracy
+> **Citacao:** No one can confidently say that he will still be living tomorrow. — Euripides
 
 fim do arquivo
 

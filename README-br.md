@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O ato de dar o primeiro passo é o que separa os vencedores dos perdedores. — Brian Tracy
+> **Citacao:** Ninguém pode dizer com segurança que ainda estará vivo amanhã. — Eurípides
 
 fim do arquivo
 
