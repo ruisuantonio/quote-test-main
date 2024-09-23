@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** No one can confidently say that he will still be living tomorrow. — Euripides
+> **Citacao:** Do what you feel in your heart to be right - for you'll be criticized anyway. — Eleanor Roosevelt
 
 fim do arquivo
 

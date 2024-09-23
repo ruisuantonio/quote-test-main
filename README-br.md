@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Ninguém pode dizer com segurança que ainda estará vivo amanhã. — Eurípides
+> **Citacao:** Faça o que você sente em seu coração que é certo - porque você será criticado de qualquer maneira. — Eleanor Roosevelt
 
 fim do arquivo
 
