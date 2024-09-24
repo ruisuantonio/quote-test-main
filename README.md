@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Do what you feel in your heart to be right - for you'll be criticized anyway. — Eleanor Roosevelt
+> **Citacao:** Youth has no age. — Pablo Picasso
 
 fim do arquivo
 

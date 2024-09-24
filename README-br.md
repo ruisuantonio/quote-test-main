@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Faça o que você sente em seu coração que é certo - porque você será criticado de qualquer maneira. — Eleanor Roosevelt
+> **Citacao:** A juventude não tem idade. — Pablo Picasso
 
 fim do arquivo
 
