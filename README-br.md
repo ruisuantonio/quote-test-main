@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A juventude não tem idade. — Pablo Picasso
+> **Citacao:** A ação pode nem sempre trazer felicidade, mas não há felicidade sem ação. — William James
 
 fim do arquivo
 

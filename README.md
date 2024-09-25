@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Youth has no age. — Pablo Picasso
+> **Citacao:** Action may not always bring happiness, but there is no happiness without action. — William James
 
 fim do arquivo
 
