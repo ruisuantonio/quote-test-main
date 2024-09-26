@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Action may not always bring happiness, but there is no happiness without action. — William James
+> **Citacao:** Patience is bitter, but its fruit is sweet. — Aristotle
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A ação pode nem sempre trazer felicidade, mas não há felicidade sem ação. — William James
+> **Citacao:** A paciência é amarga, mas seu fruto é doce. — Aristóteles
 
 fim do arquivo
 
