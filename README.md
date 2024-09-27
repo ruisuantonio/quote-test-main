@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Patience is bitter, but its fruit is sweet. — Aristotle
+> **Citacao:** Don't just sit there. Do something. The answers will follow. — Mark Manson
 
 fim do arquivo
 

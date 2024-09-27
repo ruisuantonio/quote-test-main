@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A paciência é amarga, mas seu fruto é doce. — Aristóteles
+> **Citacao:** Não fique aí sentado. Faça alguma coisa. As respostas virão. — Mark Manson
 
 fim do arquivo
 
