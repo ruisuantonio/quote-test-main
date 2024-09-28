@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não fique aí sentado. Faça alguma coisa. As respostas virão. — Mark Manson
+> **Citacao:** O custo da liderança é o interesse próprio. — Simon Sinek
 
 fim do arquivo
 

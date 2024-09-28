@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Don't just sit there. Do something. The answers will follow. — Mark Manson
+> **Citacao:** The cost of leadership is self-interest. — Simon Sinek
 
 fim do arquivo
 
