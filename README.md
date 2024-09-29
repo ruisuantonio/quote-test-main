@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The cost of leadership is self-interest. — Simon Sinek
+> **Citacao:** Act as if what you do makes a difference. It does. — William James
 
 fim do arquivo
 

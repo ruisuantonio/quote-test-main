@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O custo da liderança é o interesse próprio. — Simon Sinek
+> **Citacao:** Aja como se o que você faz fizesse diferença. Faz. — William James
 
 fim do arquivo
 
