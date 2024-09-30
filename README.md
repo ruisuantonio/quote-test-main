@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Act as if what you do makes a difference. It does. — William James
+> **Citacao:** When you realize you've made a mistake, take immediate steps to correct it. — Dalai Lama
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Aja como se o que você faz fizesse diferença. Faz. — William James
+> **Citacao:** Quando você perceber que cometeu um erro, tome medidas imediatas para corrigi-lo. — Dalai Lama
 
 fim do arquivo
 
