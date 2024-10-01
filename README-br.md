@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando você perceber que cometeu um erro, tome medidas imediatas para corrigi-lo. — Dalai Lama
+> **Citacao:** A morte sorri para todos nós. Tudo o que podemos fazer é sorrir de volta. — Marcus Aurelius
 
 fim do arquivo
 

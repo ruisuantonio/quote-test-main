@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When you realize you've made a mistake, take immediate steps to correct it. — Dalai Lama
+> **Citacao:** Death smiles at us all. All we can do is smile back. — Marcus Aurelius
 
 fim do arquivo
 
