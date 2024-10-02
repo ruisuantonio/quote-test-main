@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A morte sorri para todos nós. Tudo o que podemos fazer é sorrir de volta. — Marcus Aurelius
+> **Citacao:** Não deixe que eles te arrastem para baixo por rumores. Apenas siga aquilo em que você acredita. — Michael Jordan
 
 fim do arquivo
 

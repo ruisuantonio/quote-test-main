@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Death smiles at us all. All we can do is smile back. — Marcus Aurelius
+> **Citacao:** Don't let them drag you down by rumors. Just go with what you believe in. — Michael Jordan
 
 fim do arquivo
 
