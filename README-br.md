@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não deixe que eles te arrastem para baixo por rumores. Apenas siga aquilo em que você acredita. — Michael Jordan
+> **Citacao:** Se você for a pessoa mais inteligente da sala, você está na sala errada. — C. Sean McGee
 
 fim do arquivo
 

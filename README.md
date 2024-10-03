@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Don't let them drag you down by rumors. Just go with what you believe in. — Michael Jordan
+> **Citacao:** If you are ever the smartest person in the room, you are in the wrong room. — C. Sean McGee
 
 fim do arquivo
 
