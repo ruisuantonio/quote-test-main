@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If you are ever the smartest person in the room, you are in the wrong room. — C. Sean McGee
+> **Citacao:** The biggest room in the world is the room for improvement. — Unknown
 
 fim do arquivo
 

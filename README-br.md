@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você for a pessoa mais inteligente da sala, você está na sala errada. — C. Sean McGee
+> **Citacao:** A maior sala do mundo é a sala para melhorias. — Desconhecido
 
 fim do arquivo
 
