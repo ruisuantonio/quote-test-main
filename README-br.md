@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A maior sala do mundo é a sala para melhorias. — Desconhecido
+> **Citacao:** Prefiro ser odiado por quem sou do que amado por quem não sou. — Wayne Dyer
 
 fim do arquivo
 

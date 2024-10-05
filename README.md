@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The biggest room in the world is the room for improvement. — Unknown
+> **Citacao:** I would rather be hated for who I am than loved for who I'm not.   — Wayne Dyer
 
 fim do arquivo
 
