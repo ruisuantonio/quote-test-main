@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Prefiro ser odiado por quem sou do que amado por quem não sou. — Wayne Dyer
+> **Citacao:** Quando as coisas derem errado, não vá com elas. — Elvis Presley
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** I would rather be hated for who I am than loved for who I'm not.   — Wayne Dyer
+> **Citacao:** When things go wrong, don't go with them. — Elvis Presley
 
 fim do arquivo
 
