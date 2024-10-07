@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When things go wrong, don't go with them. — Elvis Presley
+> **Citacao:** Time heals what reason cannot.   — Seneca
 
 fim do arquivo
 

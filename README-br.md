@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando as coisas derem errado, não vá com elas. — Elvis Presley
+> **Citacao:** O tempo cura o que a razão não pode. — Sêneca
 
 fim do arquivo
 
