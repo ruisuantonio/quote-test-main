@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O tempo cura o que a razão não pode. — Sêneca
+> **Citacao:** Quando tudo parece estar indo contra você, lembre-se de que o avião decola contra o vento, não a favor dele. — Henry Ford
 
 fim do arquivo
 
