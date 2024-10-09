@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. — Henry Ford
+> **Citacao:** The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. — Carl Jung
 
 fim do arquivo
 
