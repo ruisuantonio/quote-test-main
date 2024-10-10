@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A primeira metade da vida é dedicada a formar um ego saudável, a segunda metade é ir para dentro e deixá-lo ir. — Carl Jung
+> **Citacao:** Seja corajoso para defender aquilo em que você acredita, mesmo que esteja sozinho. — Roy T. Bennett
 
 fim do arquivo
 

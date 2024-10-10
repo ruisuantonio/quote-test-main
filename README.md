@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. — Carl Jung
+> **Citacao:** Be brave to stand for what you believe in even if you stand alone. — Roy T. Bennett
 
 fim do arquivo
 
