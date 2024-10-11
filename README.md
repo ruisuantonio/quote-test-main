@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Be brave to stand for what you believe in even if you stand alone. — Roy T. Bennett
+> **Citacao:** Champions keep playing until they get it right. — Billie Jean King
 
 fim do arquivo
 

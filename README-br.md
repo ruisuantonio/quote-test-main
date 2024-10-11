@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Seja corajoso para defender aquilo em que você acredita, mesmo que esteja sozinho. — Roy T. Bennett
+> **Citacao:** Os campeões continuam jogando até acertarem. — Billie Jean King
 
 fim do arquivo
 
