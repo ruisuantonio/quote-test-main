@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os campeões continuam jogando até acertarem. — Billie Jean King
+> **Citacao:** Descanse quando estiver cansado. Refresque-se e renove-se, seu corpo, sua mente, seu espírito. Então volte ao trabalho. — Ralph Marston
 
 fim do arquivo
 

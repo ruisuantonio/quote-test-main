@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Champions keep playing until they get it right. — Billie Jean King
+> **Citacao:** Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. — Ralph Marston
 
 fim do arquivo
 
