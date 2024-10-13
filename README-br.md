@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Descanse quando estiver cansado. Refresque-se e renove-se, seu corpo, sua mente, seu espírito. Então volte ao trabalho. — Ralph Marston
+> **Citacao:** Os homens não atraem o que querem, mas o que são. — James Allen
 
 fim do arquivo
 

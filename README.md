@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. — Ralph Marston
+> **Citacao:** Men do not attract which they want but that which they are. — James Allen
 
 fim do arquivo
 
