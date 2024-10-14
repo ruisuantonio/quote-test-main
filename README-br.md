@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os homens não atraem o que querem, mas o que são. — James Allen
+> **Citacao:** Posso viver sem dinheiro, mas não posso viver sem amor. — Judy Garland
 
 fim do arquivo
 

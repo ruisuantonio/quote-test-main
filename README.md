@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Men do not attract which they want but that which they are. — James Allen
+> **Citacao:** I can live without money, but I cannot live without love. — Judy Garland
 
 fim do arquivo
 
