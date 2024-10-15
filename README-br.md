@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Posso viver sem dinheiro, mas não posso viver sem amor. — Judy Garland
+> **Citacao:** Quanto mais motivos você tiver para atingir seu objetivo, mais determinado você se tornará. — Brian Tracy
 
 fim do arquivo
 

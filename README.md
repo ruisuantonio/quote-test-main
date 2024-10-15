@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** I can live without money, but I cannot live without love. — Judy Garland
+> **Citacao:** The more reasons you have for achieving your goal, the more determined you will become. — Brian Tracy
 
 fim do arquivo
 
