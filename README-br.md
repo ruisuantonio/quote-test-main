@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quanto mais motivos você tiver para atingir seu objetivo, mais determinado você se tornará. — Brian Tracy
+> **Citacao:** Um resultado diferente requer fazer algo diferente. — Gary Keller
 
 fim do arquivo
 

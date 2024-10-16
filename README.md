@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The more reasons you have for achieving your goal, the more determined you will become. — Brian Tracy
+> **Citacao:** A different result requires doing something different. — Gary Keller
 
 fim do arquivo
 
