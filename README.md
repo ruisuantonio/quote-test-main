@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A different result requires doing something different. — Gary Keller
+> **Citacao:** Smell the cheese often so you know when it is getting old. — Spencer Johnson
 
 fim do arquivo
 

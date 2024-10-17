@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Um resultado diferente requer fazer algo diferente. — Gary Keller
+> **Citacao:** Cheire o queijo com frequência para saber quando ele está ficando velho. — Spencer Johnson
 
 fim do arquivo
 
