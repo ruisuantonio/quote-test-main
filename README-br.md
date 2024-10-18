@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Cheire o queijo com frequência para saber quando ele está ficando velho. — Spencer Johnson
+> **Citacao:** Para chegar à verdade mais simples são necessários anos de contemplação. — Isaac Newton
 
 fim do arquivo
 

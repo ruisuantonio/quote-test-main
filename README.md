@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Smell the cheese often so you know when it is getting old. — Spencer Johnson
+> **Citacao:** To arrive at the simplest truth requires years of contemplation. — Isaac Newton
 
 fim do arquivo
 
