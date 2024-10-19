@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** To arrive at the simplest truth requires years of contemplation. — Isaac Newton
+> **Citacao:** Don't wait for the right opportunity: create it. — George Bernard Shaw
 
 fim do arquivo
 

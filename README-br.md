@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Para chegar à verdade mais simples são necessários anos de contemplação. — Isaac Newton
+> **Citacao:** Não espere pela oportunidade certa: crie-a. — George Bernard Shaw
 
 fim do arquivo
 
