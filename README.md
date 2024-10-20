@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Don't wait for the right opportunity: create it. — George Bernard Shaw
+> **Citacao:** The farther backward you can look, the farther forward you are likely to see. — Winston Churchill
 
 fim do arquivo
 

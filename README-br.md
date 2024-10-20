@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não espere pela oportunidade certa: crie-a. — George Bernard Shaw
+> **Citacao:** Quanto mais para trás você puder olhar, mais para frente você provavelmente verá. — Winston Churchill
 
 fim do arquivo
 
