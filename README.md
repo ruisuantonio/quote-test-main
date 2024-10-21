@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The farther backward you can look, the farther forward you are likely to see. — Winston Churchill
+> **Citacao:** Either get busy living or get busy dying. — Stephen King
 
 fim do arquivo
 

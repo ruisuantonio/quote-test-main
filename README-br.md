@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quanto mais para trás você puder olhar, mais para frente você provavelmente verá. — Winston Churchill
+> **Citacao:** Ou se ocupe vivendo ou se ocupe morrendo. — Stephen King
 
 fim do arquivo
 
