@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Ou se ocupe vivendo ou se ocupe morrendo. — Stephen King
+> **Citacao:** Para conhecer seu Inimigo, você deve se tornar seu Inimigo. — Sun Tzu
 
 fim do arquivo
 

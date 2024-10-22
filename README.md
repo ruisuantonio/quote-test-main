@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Either get busy living or get busy dying. — Stephen King
+> **Citacao:** To know your Enemy, you must become your Enemy. — Sun Tzu
 
 fim do arquivo
 
