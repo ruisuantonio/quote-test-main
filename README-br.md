@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Para conhecer seu Inimigo, você deve se tornar seu Inimigo. — Sun Tzu
+> **Citacao:** É mais fácil descer uma colina do que subir, mas a vista é muito melhor no topo. — Henry Ward Beecher
 
 fim do arquivo
 

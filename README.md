@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** To know your Enemy, you must become your Enemy. — Sun Tzu
+> **Citacao:** It's easier to go down a hill than up it but the view is much better at the top. — Henry Ward Beecher
 
 fim do arquivo
 
