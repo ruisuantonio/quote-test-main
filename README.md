@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** It's easier to go down a hill than up it but the view is much better at the top. — Henry Ward Beecher
+> **Citacao:** The more you lose yourself in something bigger than yourself, the more energy you will have. — Norman Vincent Peale
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** É mais fácil descer uma colina do que subir, mas a vista é muito melhor no topo. — Henry Ward Beecher
+> **Citacao:** Quanto mais você se perder em algo maior do que você mesmo, mais energia você terá. — Norman Vincent Peale
 
 fim do arquivo
 
