@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quanto mais você se perder em algo maior do que você mesmo, mais energia você terá. — Norman Vincent Peale
+> **Citacao:** Somente aquele que não tem utilidade para o império é apto a ser confiado a ele. — Zhuangzi
 
 fim do arquivo
 

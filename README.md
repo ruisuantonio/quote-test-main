@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The more you lose yourself in something bigger than yourself, the more energy you will have. — Norman Vincent Peale
+> **Citacao:** Only he who has no use for the empire is fit to be entrusted with it. — Zhuangzi
 
 fim do arquivo
 
