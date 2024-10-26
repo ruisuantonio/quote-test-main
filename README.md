@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Only he who has no use for the empire is fit to be entrusted with it. — Zhuangzi
+> **Citacao:** Believe you can and you're halfway there. — Theodore Roosevelt
 
 fim do arquivo
 

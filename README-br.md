@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Somente aquele que não tem utilidade para o império é apto a ser confiado a ele. — Zhuangzi
+> **Citacao:** Acredite que você pode e estará na metade do caminho. — Theodore Roosevelt
 
 fim do arquivo
 
