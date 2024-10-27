@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Acredite que você pode e estará na metade do caminho. — Theodore Roosevelt
+> **Citacao:** Nada que resulte em progresso humano é alcançado com consentimento unânime. — Cristóvão Colombo
 
 fim do arquivo
 

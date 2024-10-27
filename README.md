@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Believe you can and you're halfway there. — Theodore Roosevelt
+> **Citacao:** Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
 
 fim do arquivo
 
