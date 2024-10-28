@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nada que resulte em progresso humano é alcançado com consentimento unânime. — Cristóvão Colombo
+> **Citacao:** Uma das chaves para a felicidade é uma memória ruim. — Rita Mae Brown
 
 fim do arquivo
 

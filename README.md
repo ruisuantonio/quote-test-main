@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
+> **Citacao:** One of the keys to happiness is a bad memory. — Rita Mae Brown
 
 fim do arquivo
 
