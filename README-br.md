@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Uma das chaves para a felicidade é uma memória ruim. — Rita Mae Brown
+> **Citacao:** É melhor começar do começo. — Amelia Earhart
 
 fim do arquivo
 

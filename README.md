@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** One of the keys to happiness is a bad memory. — Rita Mae Brown
+> **Citacao:** It is best to begin at the beginning. — Amelia Earhart
 
 fim do arquivo
 
