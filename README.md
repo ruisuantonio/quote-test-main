@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** It is best to begin at the beginning. — Amelia Earhart
+> **Citacao:** We need a backbone, not a wishbone. — Joyce Meyer
 
 fim do arquivo
 

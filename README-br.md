@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** É melhor começar do começo. — Amelia Earhart
+> **Citacao:** Precisamos de uma espinha dorsal, não de uma fúrcula. — Joyce Meyer
 
 fim do arquivo
 
