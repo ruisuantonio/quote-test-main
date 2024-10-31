@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** We need a backbone, not a wishbone. — Joyce Meyer
+> **Citacao:** Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. — Roy T. Bennett
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Precisamos de uma espinha dorsal, não de uma fúrcula. — Joyce Meyer
+> **Citacao:** Seus momentos mais difíceis geralmente levam aos melhores momentos da sua vida. Continue. Situações difíceis constroem pessoas fortes no final. — Roy T. Bennett
 
 fim do arquivo
 
