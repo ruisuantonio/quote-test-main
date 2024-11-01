@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Seus momentos mais difíceis geralmente levam aos melhores momentos da sua vida. Continue. Situações difíceis constroem pessoas fortes no final. — Roy T. Bennett
+> **Citacao:** Criatividade é inteligência se divertindo. — Albert Einstein
 
 fim do arquivo
 

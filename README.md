@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. — Roy T. Bennett
+> **Citacao:** Creativity is intelligence having fun. — Albert Einstein
 
 fim do arquivo
 
