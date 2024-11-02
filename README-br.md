@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Criatividade é inteligência se divertindo. — Albert Einstein
+> **Citacao:** Não procure significado nas palavras. Ouça os silêncios. — Samuel Beckett
 
 fim do arquivo
 

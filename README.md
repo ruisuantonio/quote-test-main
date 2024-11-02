@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Creativity is intelligence having fun. — Albert Einstein
+> **Citacao:** Don't look for meaning in the words. Listen to the silences. — Samuel Beckett
 
 fim do arquivo
 
