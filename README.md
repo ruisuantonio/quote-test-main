@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Don't look for meaning in the words. Listen to the silences. — Samuel Beckett
+> **Citacao:** Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today. — Andrew Carnegie
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não procure significado nas palavras. Ouça os silêncios. — Samuel Beckett
+> **Citacao:** Talvez a coisa mais trágica sobre a humanidade é que todos nós estamos sonhando com um jardim mágico no horizonte, em vez de aproveitar as rosas que estão lá fora hoje. — Andrew Carnegie
 
 fim do arquivo
 
