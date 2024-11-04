@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Talvez a coisa mais trágica sobre a humanidade é que todos nós estamos sonhando com um jardim mágico no horizonte, em vez de aproveitar as rosas que estão lá fora hoje. — Andrew Carnegie
+> **Citacao:** Quando você é talentoso, você faz o que quer que seja até seus dedos sangrarem ou seus olhos estarem prontos para cair da cabeça. — Stephen King
 
 fim do arquivo
 
