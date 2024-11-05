@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King
+> **Citacao:** Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. — Alexandre Dumas
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando você é talentoso, você faz o que quer que seja até seus dedos sangrarem ou seus olhos estarem prontos para cair da cabeça. — Stephen King
+> **Citacao:** Muitas vezes passamos ao lado da felicidade sem vê-la, sem olhá-la, ou mesmo se a vimos e olhamos, sem reconhecê-la. — Alexandre Dumas
 
 fim do arquivo
 
