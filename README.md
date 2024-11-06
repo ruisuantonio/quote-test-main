@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. — Alexandre Dumas
+> **Citacao:** Don't gain the world and lose your soul. Wisdom is better than silver and gold. — Bob Marley
 
 fim do arquivo
 

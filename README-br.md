@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Muitas vezes passamos ao lado da felicidade sem vê-la, sem olhá-la, ou mesmo se a vimos e olhamos, sem reconhecê-la. — Alexandre Dumas
+> **Citacao:** Não ganhe o mundo e perca sua alma. A sabedoria é melhor do que prata e ouro. — Bob Marley
 
 fim do arquivo
 
