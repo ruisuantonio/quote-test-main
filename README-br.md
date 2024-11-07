@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não ganhe o mundo e perca sua alma. A sabedoria é melhor do que prata e ouro. — Bob Marley
+> **Citacao:** Pensar é o trabalho mais difícil que existe. É por isso que tão poucas pessoas se envolvem nele. — Robert Kiyosaki
 
 fim do arquivo
 
