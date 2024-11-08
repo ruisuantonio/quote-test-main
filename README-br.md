@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Pensar é o trabalho mais difícil que existe. É por isso que tão poucas pessoas se envolvem nele. — Robert Kiyosaki
+> **Citacao:** Na paz, os filhos enterram os pais. Na guerra, os pais enterram os filhos. — Heródoto
 
 fim do arquivo
 

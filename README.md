@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Thinking is the hardest work there is. That is why so few people engage in it. — Robert Kiyosaki
+> **Citacao:** In peace, sons bury their fathers. In war, fathers bury their sons.  — Herodotus
 
 fim do arquivo
 
