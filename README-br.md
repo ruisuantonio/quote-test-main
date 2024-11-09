@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Na paz, os filhos enterram os pais. Na guerra, os pais enterram os filhos. — Heródoto
+> **Citacao:** Seu negócio não é "chegar a algum lugar" - é estar aqui. — Dan Millman
 
 fim do arquivo
 

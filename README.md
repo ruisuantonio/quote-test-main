@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** In peace, sons bury their fathers. In war, fathers bury their sons.  — Herodotus
+> **Citacao:** Your business is not to 'get somewhere' - it is to be here. — Dan Millman
 
 fim do arquivo
 
