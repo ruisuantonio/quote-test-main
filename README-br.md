@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Seu negócio não é "chegar a algum lugar" - é estar aqui. — Dan Millman
+> **Citacao:** Seus objetivos são os roteiros que o guiam e mostram o que é possível para sua vida. — Les Brown
 
 fim do arquivo
 

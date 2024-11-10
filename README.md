@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Your business is not to 'get somewhere' - it is to be here. — Dan Millman
+> **Citacao:** Your goals are the road maps that guide you and show you what is possible for your life. — Les Brown
 
 fim do arquivo
 
