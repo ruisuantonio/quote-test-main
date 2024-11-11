@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Your goals are the road maps that guide you and show you what is possible for your life. — Les Brown
+> **Citacao:** If ever you feel like an animal among men, be a lion. — Criss Jami
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Seus objetivos são os roteiros que o guiam e mostram o que é possível para sua vida. — Les Brown
+> **Citacao:** Se alguma vez você se sentir como um animal entre os homens, seja um leão. — Criss Jami
 
 fim do arquivo
 
