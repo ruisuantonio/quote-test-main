@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If ever you feel like an animal among men, be a lion. — Criss Jami
+> **Citacao:** A scientific man ought to have no wishes, no affections, - a mere heart of stone. — Charles Darwin
 
 fim do arquivo
 

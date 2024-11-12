@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se alguma vez você se sentir como um animal entre os homens, seja um leão. — Criss Jami
+> **Citacao:** Um homem científico não deve ter desejos, nem afeições, - um mero coração de pedra. — Charles Darwin
 
 fim do arquivo
 
