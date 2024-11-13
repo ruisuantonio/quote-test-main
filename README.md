@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A scientific man ought to have no wishes, no affections, - a mere heart of stone. — Charles Darwin
+> **Citacao:** Goals are the fuel in the furnace of achievement. — Brian Tracy
 
 fim do arquivo
 

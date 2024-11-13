@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Um homem científico não deve ter desejos, nem afeições, - um mero coração de pedra. — Charles Darwin
+> **Citacao:** Os objetivos são o combustível na fornalha da realização. — Brian Tracy
 
 fim do arquivo
 
