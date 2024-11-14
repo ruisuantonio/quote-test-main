@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os objetivos são o combustível na fornalha da realização. — Brian Tracy
+> **Citacao:** O que é medido é melhorado. — Robin Sharma
 
 fim do arquivo
 

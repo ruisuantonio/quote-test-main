@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Goals are the fuel in the furnace of achievement. — Brian Tracy
+> **Citacao:** What gets measured gets improved. — Robin Sharma
 
 fim do arquivo
 
