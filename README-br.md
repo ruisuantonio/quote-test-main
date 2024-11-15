@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O que é medido é melhorado. — Robin Sharma
+> **Citacao:** O sonho é gratuito, mas a correria é vendida separadamente. — Steve Harvey
 
 fim do arquivo
 

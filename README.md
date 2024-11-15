@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** What gets measured gets improved. — Robin Sharma
+> **Citacao:** The dream is free, but the hustle is sold separately. — Steve Harvey
 
 fim do arquivo
 
