@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The dream is free, but the hustle is sold separately. — Steve Harvey
+> **Citacao:** Stop wasting time defending your problems and work on addressing them instead. — Celestine Chua
 
 fim do arquivo
 

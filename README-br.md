@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O sonho é gratuito, mas a correria é vendida separadamente. — Steve Harvey
+> **Citacao:** Pare de perder tempo defendendo seus problemas e trabalhe para resolvê-los. — Celestine Chua
 
 fim do arquivo
 
