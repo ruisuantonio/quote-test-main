@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Stop wasting time defending your problems and work on addressing them instead. — Celestine Chua
+> **Citacao:** Success is achieved and maintained by those who try and keep trying.  — W. Clement Stone
 
 fim do arquivo
 

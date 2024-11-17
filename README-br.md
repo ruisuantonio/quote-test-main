@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Pare de perder tempo defendendo seus problemas e trabalhe para resolvê-los. — Celestine Chua
+> **Citacao:** O sucesso é alcançado e mantido por aqueles que tentam e continuam tentando. — W. Clement Stone
 
 fim do arquivo
 
