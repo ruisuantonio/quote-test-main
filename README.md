@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Success is achieved and maintained by those who try and keep trying.  — W. Clement Stone
+> **Citacao:** When a man is penalized for honesty he learns to lie. — Criss Jami
 
 fim do arquivo
 

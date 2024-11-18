@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O sucesso é alcançado e mantido por aqueles que tentam e continuam tentando. — W. Clement Stone
+> **Citacao:** Quando um homem é penalizado por honestidade, ele aprende a mentir
 
 fim do arquivo
 
