@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When a man is penalized for honesty he learns to lie. — Criss Jami
+> **Citacao:** It is our experiences that mold us into who we are...during times of adversity our true character will show. — Unknown
 
 fim do arquivo
 

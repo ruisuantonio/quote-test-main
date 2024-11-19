@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando um homem é penalizado por honestidade, ele aprende a mentir
+> **Citacao:** São as nossas experiências que nos moldam em quem somos... durante os tempos de adversidade, nosso verdadeiro caráter aparecerá. — Desconhecido
 
 fim do arquivo
 
