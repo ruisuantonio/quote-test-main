@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** It is our experiences that mold us into who we are...during times of adversity our true character will show. — Unknown
+> **Citacao:** Relax. Nothing is under control. — Adi Da Samraj
 
 fim do arquivo
 

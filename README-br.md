@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** São as nossas experiências que nos moldam em quem somos... durante os tempos de adversidade, nosso verdadeiro caráter aparecerá. — Desconhecido
+> **Citacao:** Relaxe. Nada está sob controle. — Adi Da Samraj
 
 fim do arquivo
 
