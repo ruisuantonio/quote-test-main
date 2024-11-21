@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Relaxe. Nada está sob controle. — Adi Da Samraj
+> **Citacao:** Para encontrar a si mesmo, pense por si mesmo. — Sócrates
 
 fim do arquivo
 

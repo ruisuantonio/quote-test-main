@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Relax. Nothing is under control. — Adi Da Samraj
+> **Citacao:** To find yourself, think for yourself. — Socrates
 
 fim do arquivo
 
