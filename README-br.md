@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Para encontrar a si mesmo, pense por si mesmo. — Sócrates
+> **Citacao:** O progresso não está em melhorar o que é, mas em avançar em direção ao que será. — Kahlil Gibran
 
 fim do arquivo
 

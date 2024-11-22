@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** To find yourself, think for yourself. — Socrates
+> **Citacao:** Progress lies not in enhancing what is, but in advancing toward what will be. — Kahlil Gibran
 
 fim do arquivo
 
