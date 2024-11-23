@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O progresso não está em melhorar o que é, mas em avançar em direção ao que será. — Kahlil Gibran
+> **Citacao:** Considere os direitos dos outros antes dos seus próprios sentimentos, e os sentimentos dos outros antes dos seus próprios direitos. — John Wooden
 
 fim do arquivo
 

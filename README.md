@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Progress lies not in enhancing what is, but in advancing toward what will be. — Kahlil Gibran
+> **Citacao:** Consider the rights of others before your own feelings, and the feelings of others before your own rights. — John Wooden
 
 fim do arquivo
 
