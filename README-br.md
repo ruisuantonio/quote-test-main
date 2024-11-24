@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Considere os direitos dos outros antes dos seus próprios sentimentos, e os sentimentos dos outros antes dos seus próprios direitos. — John Wooden
+> **Citacao:** Quando você considera coisas como as estrelas, nossos assuntos não parecem importar muito, não é? — Virginia Woolf
 
 fim do arquivo
 

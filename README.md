@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Consider the rights of others before your own feelings, and the feelings of others before your own rights. — John Wooden
+> **Citacao:** When you consider things like the stars, our affairs don't seem to matter very much, do they? — Virginia Woolf
 
 fim do arquivo
 
