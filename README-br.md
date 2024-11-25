@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando você considera coisas como as estrelas, nossos assuntos não parecem importar muito, não é? — Virginia Woolf
+> **Citacao:** Gênio, na verdade, significa pouco mais do que a faculdade de perceber de uma forma não habitual. — William James
 
 fim do arquivo
 
