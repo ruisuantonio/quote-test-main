@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. — William James
+> **Citacao:** The fewer the words, the better the prayer. — Martin Luther
 
 fim do arquivo
 

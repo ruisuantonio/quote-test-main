@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Gênio, na verdade, significa pouco mais do que a faculdade de perceber de uma forma não habitual. — William James
+> **Citacao:** Quanto menos palavras, melhor a oração. — Martinho Lutero
 
 fim do arquivo
 
