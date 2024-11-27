@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quanto menos palavras, melhor a oração. — Martinho Lutero
+> **Citacao:** Nunca permita que alguém lhe diga não se não tiver o poder de dizer sim. — Eleanor Roosevelt
 
 fim do arquivo
 

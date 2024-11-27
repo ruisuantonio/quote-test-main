@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The fewer the words, the better the prayer. — Martin Luther
+> **Citacao:** Never allow a person to tell you no who doesn't have the power to say yes. — Eleanor Roosevelt
 
 fim do arquivo
 
