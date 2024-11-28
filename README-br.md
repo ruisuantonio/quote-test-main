@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nunca permita que alguém lhe diga não se não tiver o poder de dizer sim. — Eleanor Roosevelt
+> **Citacao:** Para cada efeito, há uma causa raiz. Encontre e trate da causa raiz em vez de tentar consertar o efeito, pois não há fim para o último. — Celestine Chua
 
 fim do arquivo
 
