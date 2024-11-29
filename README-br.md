@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Para cada efeito, há uma causa raiz. Encontre e trate da causa raiz em vez de tentar consertar o efeito, pois não há fim para o último. — Celestine Chua
+> **Citacao:** Leva um minuto para se apaixonar por alguém, uma hora para gostar de alguém e um dia para amar alguém... mas leva uma vida inteira para esquecer alguém. — Kahlil Gibran
 
 fim do arquivo
 
