@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Leva um minuto para se apaixonar por alguém, uma hora para gostar de alguém e um dia para amar alguém... mas leva uma vida inteira para esquecer alguém. — Kahlil Gibran
+> **Citacao:** Somos moldados e moldados por aquilo que amamos. — Johann Wolfgang von Goethe
 
 fim do arquivo
 

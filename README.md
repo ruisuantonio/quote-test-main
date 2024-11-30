@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. — Kahlil Gibran
+> **Citacao:** We are shaped and fashioned by what we love. — Johann Wolfgang von Goethe
 
 fim do arquivo
 
