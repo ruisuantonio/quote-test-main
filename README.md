@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** We are shaped and fashioned by what we love. — Johann Wolfgang von Goethe
+> **Citacao:** A journey of a thousand miles begins with a single step. — Lao Tzu
 
 fim do arquivo
 

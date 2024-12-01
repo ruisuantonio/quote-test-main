@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Somos moldados e moldados por aquilo que amamos. — Johann Wolfgang von Goethe
+> **Citacao:** Uma jornada de mil milhas começa com um único passo. — Lao Tzu
 
 fim do arquivo
 
