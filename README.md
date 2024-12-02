@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A journey of a thousand miles begins with a single step. — Lao Tzu
+> **Citacao:** Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.   — Estee Lauder
 
 fim do arquivo
 

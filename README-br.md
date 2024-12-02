@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Uma jornada de mil milhas começa com um único passo. — Lao Tzu
+> **Citacao:** Dê crédito a quem merece: em termos simples, se você quer lealdade e o melhor esforço, você deve ser atencioso. — Estee Lauder
 
 fim do arquivo
 
