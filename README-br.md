@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Dê crédito a quem merece: em termos simples, se você quer lealdade e o melhor esforço, você deve ser atencioso. — Estee Lauder
+> **Citacao:** Todo mundo é uma lua e tem um lado negro que nunca mostra a ninguém. — Mark Twain
 
 fim do arquivo
 

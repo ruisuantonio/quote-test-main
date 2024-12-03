@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.   — Estee Lauder
+> **Citacao:** Everyone is a moon, and has a dark side which he never shows to anybody. — Mark Twain
 
 fim do arquivo
 
