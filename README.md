@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Everyone is a moon, and has a dark side which he never shows to anybody. — Mark Twain
+> **Citacao:** Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future. — Deepak Chopra
 
 fim do arquivo
 

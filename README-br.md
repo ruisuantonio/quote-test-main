@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Todo mundo é uma lua e tem um lado negro que nunca mostra a ninguém. — Mark Twain
+> **Citacao:** Toda vez que você for tentado a reagir da mesma maneira antiga, pergunte-se se você quer ser um prisioneiro do passado ou um pioneiro do futuro. — Deepak Chopra
 
 fim do arquivo
 
