@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Toda vez que você for tentado a reagir da mesma maneira antiga, pergunte-se se você quer ser um prisioneiro do passado ou um pioneiro do futuro. — Deepak Chopra
+> **Citacao:** Quanto mais quero fazer algo, menos chamo isso de trabalho. — Richard Bach
 
 fim do arquivo
 
