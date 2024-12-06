@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The more I want to get something done, the less I call it work. — Richard Bach
+> **Citacao:** Life would be tragic if it weren't funny. — Stephen Hawking
 
 fim do arquivo
 

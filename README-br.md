@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quanto mais quero fazer algo, menos chamo isso de trabalho. — Richard Bach
+> **Citacao:** A vida seria trágica se não fosse engraçada. — Stephen Hawking
 
 fim do arquivo
 
