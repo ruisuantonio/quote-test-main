@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida seria trágica se não fosse engraçada. — Stephen Hawking
+> **Citacao:** A vida acontece no rio, não na costa. — Maxime Lagace
 
 fim do arquivo
 

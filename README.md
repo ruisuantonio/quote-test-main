@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life would be tragic if it weren't funny. — Stephen Hawking
+> **Citacao:** Life happens in the river, not the shore. — Maxime Lagace
 
 fim do arquivo
 
