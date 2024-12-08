@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida acontece no rio, não na costa. — Maxime Lagace
+> **Citacao:** Já tentou. Já falhou. Não importa. Tente de novo. Fracasse de novo. Fracasse melhor. — Samuel Beckett
 
 fim do arquivo
 

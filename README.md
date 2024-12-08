@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life happens in the river, not the shore. — Maxime Lagace
+> **Citacao:** Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  — Samuel Beckett
 
 fim do arquivo
 
