@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  — Samuel Beckett
+> **Citacao:** Real growth comes through intense, difficult, and challenging situations. — Kamal Ravikant
 
 fim do arquivo
 

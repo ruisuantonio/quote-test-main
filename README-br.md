@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Já tentou. Já falhou. Não importa. Tente de novo. Fracasse de novo. Fracasse melhor. — Samuel Beckett
+> **Citacao:** O verdadeiro crescimento vem por meio de situações intensas, difíceis e desafiadoras. — Kamal Ravikant
 
 fim do arquivo
 
