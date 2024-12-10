@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O verdadeiro crescimento vem por meio de situações intensas, difíceis e desafiadoras. — Kamal Ravikant
+> **Citacao:** A vida é cheia de segredos. Você não pode aprender todos eles de uma vez. — Dan Brown
 
 fim do arquivo
 

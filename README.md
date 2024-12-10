@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Real growth comes through intense, difficult, and challenging situations. — Kamal Ravikant
+> **Citacao:** Life is filled with secrets. You can't learn them all at once. — Dan Brown
 
 fim do arquivo
 
