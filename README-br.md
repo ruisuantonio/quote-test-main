@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida é cheia de segredos. Você não pode aprender todos eles de uma vez. — Dan Brown
+> **Citacao:** Você nunca fará nada neste mundo sem coragem. É a maior qualidade da mente depois da honra. — James Allen
 
 fim do arquivo
 
