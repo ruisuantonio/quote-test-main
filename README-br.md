@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Você nunca fará nada neste mundo sem coragem. É a maior qualidade da mente depois da honra. — James Allen
+> **Citacao:** Buscar a grandeza é a única vingança justa. — Criss Jami
 
 fim do arquivo
 
