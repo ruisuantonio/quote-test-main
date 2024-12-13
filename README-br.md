@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Buscar a grandeza é a única vingança justa. — Criss Jami
+> **Citacao:** Se o plano não funcionar, mude o plano, mas nunca o objetivo. — Desconhecido
 
 fim do arquivo
 

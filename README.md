@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** To seek greatness is the only righteous vengeance. — Criss Jami
+> **Citacao:** If the plan doesn't work, change the plan, but never the goal. — Unknown
 
 fim do arquivo
 
