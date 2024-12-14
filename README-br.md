@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se o plano não funcionar, mude o plano, mas nunca o objetivo. — Desconhecido
+> **Citacao:** Pensar é o trabalho mais difícil que existe, o que provavelmente é a razão pela qual tão poucos se envolvem nele. — Henry Ford
 
 fim do arquivo
 
