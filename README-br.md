@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Pensar é o trabalho mais difícil que existe, o que provavelmente é a razão pela qual tão poucos se envolvem nele. — Henry Ford
+> **Citacao:** Com o tempo, a solidão entra em você e não vai embora. — Carlos Ruiz Zafon
 
 fim do arquivo
 

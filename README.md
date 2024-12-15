@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Thinking is the hardest work there is, which is probably the reason why so few engage in it. — Henry Ford
+> **Citacao:** Over time, loneliness gets inside you and doesn't go away. — Carlos Ruiz Zafon
 
 fim do arquivo
 
