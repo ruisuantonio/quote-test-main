@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Over time, loneliness gets inside you and doesn't go away. — Carlos Ruiz Zafon
+> **Citacao:** Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. — Robert Collier
 
 fim do arquivo
 

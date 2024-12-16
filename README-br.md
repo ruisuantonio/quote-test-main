@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Com o tempo, a solidão entra em você e não vai embora. — Carlos Ruiz Zafon
+> **Citacao:** Qualquer pensamento que é transmitido ao subconsciente com frequência suficiente e de forma convincente é finalmente aceito. — Robert Collier
 
 fim do arquivo
 
