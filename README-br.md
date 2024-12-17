@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Qualquer pensamento que é transmitido ao subconsciente com frequência suficiente e de forma convincente é finalmente aceito. — Robert Collier
+> **Citacao:** As palavras, uma vez impressas, têm vida própria. — Carol Burnett
 
 fim do arquivo
 

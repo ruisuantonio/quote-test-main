@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted. — Robert Collier
+> **Citacao:** Words, once they are printed, have a life of their own. — Carol Burnett
 
 fim do arquivo
 
