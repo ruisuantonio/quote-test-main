@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** As palavras, uma vez impressas, têm vida própria. — Carol Burnett
+> **Citacao:** A qualidade da sua vida é determinada pela qualidade dos seus pensamentos. — Desconhecido
 
 fim do arquivo
 

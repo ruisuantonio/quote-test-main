@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Words, once they are printed, have a life of their own. — Carol Burnett
+> **Citacao:** The quality of your life is determined by the quality of your thoughts. — Unknown
 
 fim do arquivo
 
