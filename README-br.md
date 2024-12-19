@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A qualidade da sua vida é determinada pela qualidade dos seus pensamentos. — Desconhecido
+> **Citacao:** Muita sanidade pode ser loucura, e a mais louca de todas, é ver a vida como ela é e não como deveria ser. — Miguel de Cervantes
 
 fim do arquivo
 
