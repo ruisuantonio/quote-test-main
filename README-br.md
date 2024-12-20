@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Muita sanidade pode ser loucura, e a mais louca de todas, é ver a vida como ela é e não como deveria ser. — Miguel de Cervantes
+> **Citacao:** Quanto mais difícil o conflito, maior o triunfo. — George Washington
 
 fim do arquivo
 
