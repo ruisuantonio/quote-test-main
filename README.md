@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The harder the conflict, the greater the triumph.  — George Washington
+> **Citacao:** Many of life's failures are people who did not realize how close they were to success when they gave up. — Thomas Edison
 
 fim do arquivo
 

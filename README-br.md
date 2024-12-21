@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quanto mais difícil o conflito, maior o triunfo. — George Washington
+> **Citacao:** Muitos dos fracassos da vida são pessoas que não perceberam o quão perto estavam do sucesso quando desistiram. — Thomas Edison
 
 fim do arquivo
 
