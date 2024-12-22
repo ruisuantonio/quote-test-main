@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Muitos dos fracassos da vida são pessoas que não perceberam o quão perto estavam do sucesso quando desistiram. — Thomas Edison
+> **Citacao:** Os campeões continuam jogando até acertarem. — Billie Jean King
 
 fim do arquivo
 

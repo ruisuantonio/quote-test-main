@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Many of life's failures are people who did not realize how close they were to success when they gave up. — Thomas Edison
+> **Citacao:** Champions keep playing until they get it right. — Billie Jean King
 
 fim do arquivo
 
