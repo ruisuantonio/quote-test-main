@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os campeões continuam jogando até acertarem. — Billie Jean King
+> **Citacao:** As palavras são como folhas; e onde elas são mais abundantes, raramente se encontra muito fruto de sentido por baixo. — Alexander Pope
 
 fim do arquivo
 

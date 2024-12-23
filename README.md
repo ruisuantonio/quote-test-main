@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Champions keep playing until they get it right. — Billie Jean King
+> **Citacao:** Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. — Alexander Pope
 
 fim do arquivo
 
