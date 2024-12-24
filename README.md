@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. — Alexander Pope
+> **Citacao:** We meet ourselves time and again in a thousand disguises on the path of life. — Carl Jung
 
 fim do arquivo
 

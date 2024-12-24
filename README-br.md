@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** As palavras são como folhas; e onde elas são mais abundantes, raramente se encontra muito fruto de sentido por baixo. — Alexander Pope
+> **Citacao:** Nós nos encontramos repetidamente em mil disfarces no caminho da vida. — Carl Jung
 
 fim do arquivo
 
