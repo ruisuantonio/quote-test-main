@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nós nos encontramos repetidamente em mil disfarces no caminho da vida. — Carl Jung
+> **Citacao:** Eu nunca me detenho no que aconteceu. Você não pode mudar isso. Siga em frente. — Joan Rivers
 
 fim do arquivo
 

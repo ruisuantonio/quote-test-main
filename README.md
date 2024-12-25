@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** We meet ourselves time and again in a thousand disguises on the path of life. — Carl Jung
+> **Citacao:** I never dwell on what happened. You can't change it. Move forward. — Joan Rivers
 
 fim do arquivo
 
