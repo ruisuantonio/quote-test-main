@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Eu nunca me detenho no que aconteceu. Você não pode mudar isso. Siga em frente. — Joan Rivers
+> **Citacao:** Obstáculos não podem te parar. Problemas não podem te parar. Acima de tudo, outras pessoas não podem te parar. Só você pode te parar. — Jeffrey Gitomer
 
 fim do arquivo
 
