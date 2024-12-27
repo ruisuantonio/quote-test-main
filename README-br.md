@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Obstáculos não podem te parar. Problemas não podem te parar. Acima de tudo, outras pessoas não podem te parar. Só você pode te parar. — Jeffrey Gitomer
+> **Citacao:** Sonhe alto. Comece pequeno. Mas, acima de tudo, comece. — Simon Sinek
 
 fim do arquivo
 
