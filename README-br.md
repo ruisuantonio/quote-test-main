@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Sonhe alto. Comece pequeno. Mas, acima de tudo, comece. — Simon Sinek
+> **Citacao:** A coisa mais trágica do mundo é um homem de gênio que não é um homem de honra. — George Bernard Shaw
 
 fim do arquivo
 
