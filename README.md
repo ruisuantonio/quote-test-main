@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The most tragic thing in the world is a man of genius who is not a man of honor. — George Bernard Shaw
+> **Citacao:** If you don't like something change it. If you can't change it, change your attitude about it. Don't complain. — Maya Angelou
 
 fim do arquivo
 

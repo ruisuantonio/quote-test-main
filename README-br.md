@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A coisa mais trágica do mundo é um homem de gênio que não é um homem de honra. — George Bernard Shaw
+> **Citacao:** Se você não gosta de algo, mude. Se você não pode mudar, mude sua atitude sobre isso. Não reclame. — Maya Angelou
 
 fim do arquivo
 
