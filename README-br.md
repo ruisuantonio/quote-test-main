@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você não gosta de algo, mude. Se você não pode mudar, mude sua atitude sobre isso. Não reclame. — Maya Angelou
+> **Citacao:** A vida é uma questão e a forma como a vivemos é a nossa resposta. — Gary Keller
 
 fim do arquivo
 

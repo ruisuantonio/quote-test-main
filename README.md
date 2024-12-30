@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If you don't like something change it. If you can't change it, change your attitude about it. Don't complain. — Maya Angelou
+> **Citacao:** Life is a question and how we live it is our answer. — Gary Keller
 
 fim do arquivo
 
