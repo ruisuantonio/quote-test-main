@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida é uma questão e a forma como a vivemos é a nossa resposta. — Gary Keller
+> **Citacao:** Sempre que você se encontrar do lado da maioria, é hora de se reformar. — Mark Twain
 
 fim do arquivo
 

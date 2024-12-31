@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life is a question and how we live it is our answer. — Gary Keller
+> **Citacao:** Whenever you find yourself on the side of the majority, it is time to reform. — Mark Twain
 
 fim do arquivo
 
