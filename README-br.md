@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Sempre que você se encontrar do lado da maioria, é hora de se reformar. — Mark Twain
+> **Citacao:** Todo mundo quer ir para o céu, mas ninguém quer morrer. — Robert Kiyosaki
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Whenever you find yourself on the side of the majority, it is time to reform. — Mark Twain
+> **Citacao:** Everyone wants to go to Heaven, but no one wants to die. — Robert Kiyosaki
 
 fim do arquivo
 
