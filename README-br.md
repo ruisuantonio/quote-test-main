@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Todo mundo quer ir para o céu, mas ninguém quer morrer. — Robert Kiyosaki
+> **Citacao:** Se você não tem tempo para fazer direito, quando terá tempo para refazer? — John Wooden
 
 fim do arquivo
 

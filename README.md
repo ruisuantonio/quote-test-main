@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Everyone wants to go to Heaven, but no one wants to die. — Robert Kiyosaki
+> **Citacao:** If you don't have time to do it right, when will you have time to do it over? — John Wooden
 
 fim do arquivo
 
