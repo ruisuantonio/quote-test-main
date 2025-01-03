@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você não tem tempo para fazer direito, quando terá tempo para refazer? — John Wooden
+> **Citacao:** A medida da sabedoria é o quão calmo você está ao enfrentar qualquer situação. — Naval Ravikant
 
 fim do arquivo
 

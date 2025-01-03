@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If you don't have time to do it right, when will you have time to do it over? — John Wooden
+> **Citacao:** The measure of wisdom is how calm you are when facing any given situation. — Naval Ravikant
 
 fim do arquivo
 
