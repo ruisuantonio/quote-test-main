@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The measure of wisdom is how calm you are when facing any given situation. — Naval Ravikant
+> **Citacao:** In the midst of chaos, there is also opportunity. — Sun Tzu
 
 fim do arquivo
 

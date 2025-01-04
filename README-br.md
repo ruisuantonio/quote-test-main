@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A medida da sabedoria é o quão calmo você está ao enfrentar qualquer situação. — Naval Ravikant
+> **Citacao:** No meio do caos, também há oportunidade. — Sun Tzu
 
 fim do arquivo
 
