@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** In the midst of chaos, there is also opportunity. — Sun Tzu
+> **Citacao:** The health of nations is more important than the wealth of nations. — Will Rogers
 
 fim do arquivo
 

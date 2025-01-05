@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** No meio do caos, também há oportunidade. — Sun Tzu
+> **Citacao:** A saúde das nações é mais importante do que a riqueza das nações. — Will Rogers
 
 fim do arquivo
 
