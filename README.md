@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The health of nations is more important than the wealth of nations. — Will Rogers
+> **Citacao:** We forge the chains we wear in life. — Charles Dickens
 
 fim do arquivo
 

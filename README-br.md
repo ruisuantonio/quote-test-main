@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A saúde das nações é mais importante do que a riqueza das nações. — Will Rogers
+> **Citacao:** Nós forjamos as correntes que usamos na vida. — Charles Dickens
 
 fim do arquivo
 
