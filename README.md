@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** We forge the chains we wear in life. — Charles Dickens
+> **Citacao:** Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. — Elvis Presley
 
 fim do arquivo
 

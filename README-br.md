@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nós forjamos as correntes que usamos na vida. — Charles Dickens
+> **Citacao:** Valores são como impressões digitais. Ninguém é igual, mas você as deixa em tudo o que faz. — Elvis Presley
 
 fim do arquivo
 
