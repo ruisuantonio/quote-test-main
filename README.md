@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. — Elvis Presley
+> **Citacao:** If you do what you've always done, you'll get what you've always gotten. — Tony Robbins
 
 fim do arquivo
 

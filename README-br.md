@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Valores são como impressões digitais. Ninguém é igual, mas você as deixa em tudo o que faz. — Elvis Presley
+> **Citacao:** Se você fizer o que sempre fez, obterá o que sempre obteve. — Tony Robbins
 
 fim do arquivo
 
