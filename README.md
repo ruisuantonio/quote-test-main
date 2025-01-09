@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If you do what you've always done, you'll get what you've always gotten. — Tony Robbins
+> **Citacao:** Integrity is the ability to stand by an idea. — Ayn Rand
 
 fim do arquivo
 

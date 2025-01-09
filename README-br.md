@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você fizer o que sempre fez, obterá o que sempre obteve. — Tony Robbins
+> **Citacao:** Integridade é a capacidade de defender uma ideia. — Ayn Rand
 
 fim do arquivo
 
