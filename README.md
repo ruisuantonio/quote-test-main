@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Integrity is the ability to stand by an idea. — Ayn Rand
+> **Citacao:** Never be bored, and you will never be boring. — Eleanor Roosevelt
 
 fim do arquivo
 

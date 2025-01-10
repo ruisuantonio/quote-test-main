@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Integridade é a capacidade de defender uma ideia. — Ayn Rand
+> **Citacao:** Nunca fique entediado e você nunca será chato. — Eleanor Roosevelt
 
 fim do arquivo
 
