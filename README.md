@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Never be bored, and you will never be boring. — Eleanor Roosevelt
+> **Citacao:** Begin now to be what you will be hereafter. — St. Jerome
 
 fim do arquivo
 

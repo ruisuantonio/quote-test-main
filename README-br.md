@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nunca fique entediado e você nunca será chato. — Eleanor Roosevelt
+> **Citacao:** Comece agora a ser o que você será daqui em diante. — São Jerônimo
 
 fim do arquivo
 
