@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Begin now to be what you will be hereafter. — St. Jerome
+> **Citacao:** What would you do if you weren't afraid? — Spencer Johnson
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Comece agora a ser o que você será daqui em diante. — São Jerônimo
+> **Citacao:** O que você faria se não tivesse medo? — Spencer Johnson
 
 fim do arquivo
 
