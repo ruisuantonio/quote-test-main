@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O que você faria se não tivesse medo? — Spencer Johnson
+> **Citacao:** A ausência faz o coração ficar mais afeiçoado. — Eleanor Roosevelt
 
 fim do arquivo
 

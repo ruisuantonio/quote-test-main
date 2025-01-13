@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** What would you do if you weren't afraid? — Spencer Johnson
+> **Citacao:** Absence makes the heart grow fonder. — Eleanor Roosevelt
 
 fim do arquivo
 
