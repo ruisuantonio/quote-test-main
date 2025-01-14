@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A ausência faz o coração ficar mais afeiçoado. — Eleanor Roosevelt
+> **Citacao:** Só há uma coisa no mundo pior do que ser falado: não ser falado. — Oscar Wilde
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Absence makes the heart grow fonder. — Eleanor Roosevelt
+> **Citacao:** There is only one thing in the world worse than being talked about, and that is not being talked about.  — Oscar Wilde
 
 fim do arquivo
 
