@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Só há uma coisa no mundo pior do que ser falado: não ser falado. — Oscar Wilde
+> **Citacao:** Podemos não ser responsáveis ​​pelo mundo que criou nossas mentes, mas podemos assumir a responsabilidade pela mente com a qual criamos nosso mundo. — Gabor Mate
 
 fim do arquivo
 

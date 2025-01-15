@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** There is only one thing in the world worse than being talked about, and that is not being talked about.  — Oscar Wilde
+> **Citacao:** We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. — Gabor Mate
 
 fim do arquivo
 
