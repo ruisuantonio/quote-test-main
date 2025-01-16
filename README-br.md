@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Podemos não ser responsáveis ​​pelo mundo que criou nossas mentes, mas podemos assumir a responsabilidade pela mente com a qual criamos nosso mundo. — Gabor Mate
+> **Citacao:** Os sonhadores são os salvadores dos mundos. — James Allen
 
 fim do arquivo
 

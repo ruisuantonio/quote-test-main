@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. — Gabor Mate
+> **Citacao:** The dreamers are the saviors of the worlds. — James Allen
 
 fim do arquivo
 
