@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os sonhadores são os salvadores dos mundos. — James Allen
+> **Citacao:** Se aprendermos a abrir nossos corações, qualquer um, incluindo as pessoas que nos deixam loucos, pode ser nosso professor. — Pema Chodron
 
 fim do arquivo
 

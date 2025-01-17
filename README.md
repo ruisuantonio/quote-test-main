@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The dreamers are the saviors of the worlds. — James Allen
+> **Citacao:** If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. — Pema Chodron
 
 fim do arquivo
 
