@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. — Pema Chodron
+> **Citacao:** Your best life will not be found in comfort. It will be found in fighting for what you believe in. — Maxime Lagace
 
 fim do arquivo
 

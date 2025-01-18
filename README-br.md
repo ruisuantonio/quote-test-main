@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se aprendermos a abrir nossos corações, qualquer um, incluindo as pessoas que nos deixam loucos, pode ser nosso professor. — Pema Chodron
+> **Citacao:** Sua melhor vida não será encontrada no conforto. Ela será encontrada na luta pelo que você acredita. — Maxime Lagace
 
 fim do arquivo
 
