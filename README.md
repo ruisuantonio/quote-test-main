@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Your best life will not be found in comfort. It will be found in fighting for what you believe in. — Maxime Lagace
+> **Citacao:** Only those who do nothing at all make no mistakes. — Unknown
 
 fim do arquivo
 

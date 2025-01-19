@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Sua melhor vida não será encontrada no conforto. Ela será encontrada na luta pelo que você acredita. — Maxime Lagace
+> **Citacao:** Só quem não faz nada não comete erros. — Desconhecido
 
 fim do arquivo
 
