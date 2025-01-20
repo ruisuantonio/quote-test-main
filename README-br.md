@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Só quem não faz nada não comete erros. — Desconhecido
+> **Citacao:** A vida não é apenas a passagem do tempo. A vida é a coleção de experiências e sua intensidade. — Jim Rohn
 
 fim do arquivo
 

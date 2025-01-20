@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Only those who do nothing at all make no mistakes. — Unknown
+> **Citacao:** Life is not just the passing of time. Life is the collection of experiences and their intensity. — Jim Rohn
 
 fim do arquivo
 
