@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida não é apenas a passagem do tempo. A vida é a coleção de experiências e sua intensidade. — Jim Rohn
+> **Citacao:** Você sabe que está no caminho do sucesso se fizer seu trabalho e não for pago por ele. — Oprah Winfrey
 
 fim do arquivo
 

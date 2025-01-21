@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life is not just the passing of time. Life is the collection of experiences and their intensity. — Jim Rohn
+> **Citacao:** You know you are on the road to success if you would do your job and not be paid for it. — Oprah Winfrey
 
 fim do arquivo
 
