@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** You know you are on the road to success if you would do your job and not be paid for it. — Oprah Winfrey
+> **Citacao:** The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. — Henry Ward Beecher
 
 fim do arquivo
 

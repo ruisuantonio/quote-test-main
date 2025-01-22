@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Você sabe que está no caminho do sucesso se fizer seu trabalho e não for pago por ele. — Oprah Winfrey
+> **Citacao:** O coração ingrato não descobre misericórdias; mas o coração grato encontrará, em cada hora, algumas bênçãos celestiais. — Henry Ward Beecher
 
 fim do arquivo
 
