@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. — Henry Ward Beecher
+> **Citacao:** Many people will walk in and out of your life, but only true friends will leave footprints in your heart. — Eleanor Roosevelt
 
 fim do arquivo
 

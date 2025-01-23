@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O coração ingrato não descobre misericórdias; mas o coração grato encontrará, em cada hora, algumas bênçãos celestiais. — Henry Ward Beecher
+> **Citacao:** Muitas pessoas entrarão e sairão da sua vida, mas somente amigos verdadeiros deixarão pegadas em seu coração. — Eleanor Roosevelt
 
 fim do arquivo
 
