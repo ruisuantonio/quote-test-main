@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Muitas pessoas entrarão e sairão da sua vida, mas somente amigos verdadeiros deixarão pegadas em seu coração. — Eleanor Roosevelt
+> **Citacao:** As pessoas não se importam com o quanto você sabe até que saibam o quanto você se importa. — Theodore Roosevelt
 
 fim do arquivo
 
