@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** People don't care how much you know until they know how much you care. — Theodore Roosevelt
+> **Citacao:** Lust, anger and greed are the three gates to self-destructive hell. — Bhagavad Gita
 
 fim do arquivo
 

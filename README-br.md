@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** As pessoas não se importam com o quanto você sabe até que saibam o quanto você se importa. — Theodore Roosevelt
+> **Citacao:** Luxúria, raiva e ganância são as três portas para o inferno autodestrutivo. — Bhagavad Gita
 
 fim do arquivo
 
