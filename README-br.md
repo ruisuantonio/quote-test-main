@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Luxúria, raiva e ganância são as três portas para o inferno autodestrutivo. — Bhagavad Gita
+> **Citacao:** Se você quer se sentir feliz, faça algo por si mesmo. Se você quer se sentir realizado, faça algo por outra pessoa. — Simon Sinek
 
 fim do arquivo
 

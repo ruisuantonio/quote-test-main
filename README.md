@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Lust, anger and greed are the three gates to self-destructive hell. — Bhagavad Gita
+> **Citacao:** If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. — Simon Sinek
 
 fim do arquivo
 
