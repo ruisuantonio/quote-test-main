@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. — Simon Sinek
+> **Citacao:** When we have our body and mind in order, everything else will exist in the right place, in the right way. — Shunryu Suzuki
 
 fim do arquivo
 

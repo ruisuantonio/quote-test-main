@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Se você quer se sentir feliz, faça algo por si mesmo. Se você quer se sentir realizado, faça algo por outra pessoa. — Simon Sinek
+> **Citacao:** Quando temos nosso corpo e mente em ordem, todo o resto existirá no lugar certo, da maneira certa. — Shunryu Suzuki
 
 fim do arquivo
 
