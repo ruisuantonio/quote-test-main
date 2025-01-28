@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando temos nosso corpo e mente em ordem, todo o resto existirá no lugar certo, da maneira certa. — Shunryu Suzuki
+> **Citacao:** Quando você sabe o que quer, e o quer muito, você encontrará uma maneira de obtê-lo. — Jim Rohn
 
 fim do arquivo
 
