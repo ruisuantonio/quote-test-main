@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When you know what you want, and you want it bad enough, you will find a way to get it. — Jim Rohn
+> **Citacao:** Magic is believing in yourself, if you can do that, you can make anything happen. — Johann Wolfgang von Goethe
 
 fim do arquivo
 

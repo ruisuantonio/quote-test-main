@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando você sabe o que quer, e o quer muito, você encontrará uma maneira de obtê-lo. — Jim Rohn
+> **Citacao:** Magia é acreditar em si mesmo, se você pode fazer isso, você pode fazer qualquer coisa acontecer. — Johann Wolfgang von Goethe
 
 fim do arquivo
 
