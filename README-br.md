@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Magia é acreditar em si mesmo, se você pode fazer isso, você pode fazer qualquer coisa acontecer. — Johann Wolfgang von Goethe
+> **Citacao:** Não importa de onde você vem. Tudo o que importa é para onde você está indo. — Brian Tracy
 
 fim do arquivo
 

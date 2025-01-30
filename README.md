@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Magic is believing in yourself, if you can do that, you can make anything happen. — Johann Wolfgang von Goethe
+> **Citacao:** It doesn't matter where you are coming from. All that matters is where you are going.  — Brian Tracy
 
 fim do arquivo
 
