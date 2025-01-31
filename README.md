@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** It doesn't matter where you are coming from. All that matters is where you are going.  — Brian Tracy
+> **Citacao:** People are doing the best that they can from their own level of consciousness. — Deepak Chopra
 
 fim do arquivo
 

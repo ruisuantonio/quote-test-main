@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não importa de onde você vem. Tudo o que importa é para onde você está indo. — Brian Tracy
+> **Citacao:** As pessoas estão fazendo o melhor que podem a partir de seu próprio nível de consciência. — Deepak Chopra
 
 fim do arquivo
 
