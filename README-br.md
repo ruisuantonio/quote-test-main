@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** As pessoas estão fazendo o melhor que podem a partir de seu próprio nível de consciência. — Deepak Chopra
+> **Citacao:** A vida é como entrar em um barco que está prestes a navegar para o mar e afundar. — Shunryu Suzuki
 
 fim do arquivo
 

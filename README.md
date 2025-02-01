@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** People are doing the best that they can from their own level of consciousness. — Deepak Chopra
+> **Citacao:** Life is like stepping onto a boat which is about to sail out to sea and sink. — Shunryu Suzuki
 
 fim do arquivo
 
