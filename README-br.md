@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida é como entrar em um barco que está prestes a navegar para o mar e afundar. — Shunryu Suzuki
+> **Citacao:** Qualquer pessoa que sonha com uma vida incomum acaba descobrindo que não há escolha a não ser buscar uma abordagem incomum para vivê-la. — Gary Keller
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life is like stepping onto a boat which is about to sail out to sea and sink. — Shunryu Suzuki
+> **Citacao:** Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. — Gary Keller
 
 fim do arquivo
 
