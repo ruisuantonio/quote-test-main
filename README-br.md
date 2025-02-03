@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Qualquer pessoa que sonha com uma vida incomum acaba descobrindo que não há escolha a não ser buscar uma abordagem incomum para vivê-la. — Gary Keller
+> **Citacao:** Nunca faça aos outros o que você não gostaria que fizessem a você. — Confúcio
 
 fim do arquivo
 

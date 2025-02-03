@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. — Gary Keller
+> **Citacao:** Never do to others what you would not like them to do to you.  — Confucius
 
 fim do arquivo
 
