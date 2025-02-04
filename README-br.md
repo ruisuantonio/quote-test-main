@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nunca faça aos outros o que você não gostaria que fizessem a você. — Confúcio
+> **Citacao:** Não existe sucesso absoluto no mundo, apenas progresso constante. — Jonathan Swift
 
 fim do arquivo
 
