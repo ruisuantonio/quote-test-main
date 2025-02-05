@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** There is no absolute success in the world, only constant progress. — Jonathan Swift
+> **Citacao:** May you find grace as you surrender to life. May you find happiness, as you stop seeking it. — Dan Millman
 
 fim do arquivo
 

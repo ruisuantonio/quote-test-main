@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não existe sucesso absoluto no mundo, apenas progresso constante. — Jonathan Swift
+> **Citacao:** Que você encontre graça ao se render à vida. Que você encontre felicidade ao parar de procurá-la. — Dan Millman
 
 fim do arquivo
 
