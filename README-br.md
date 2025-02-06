@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Que você encontre graça ao se render à vida. Que você encontre felicidade ao parar de procurá-la. — Dan Millman
+> **Citacao:** Viva sob o sol, nade no mar, beba o ar selvagem. — Ralph Waldo Emerson
 
 fim do arquivo
 

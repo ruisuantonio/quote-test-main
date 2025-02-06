@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** May you find grace as you surrender to life. May you find happiness, as you stop seeking it. — Dan Millman
+> **Citacao:** Live in the sunshine, swim the sea, drink the wild air. — Ralph Waldo Emerson
 
 fim do arquivo
 
