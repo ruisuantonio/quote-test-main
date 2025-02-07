@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Live in the sunshine, swim the sea, drink the wild air. — Ralph Waldo Emerson
+> **Citacao:** In the midst of chaos, there is also opportunity. — Sun Tzu
 
 fim do arquivo
 
