@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** No meio do caos, também há oportunidade. — Sun Tzu
+> **Citacao:** Todo mundo tem oceanos para voar, se tiverem o coração para fazê -lo. É imprudente? Talvez. Mas o que os sonhos sabem dos limites. - Amelia Earhart
 
 fim do arquivo
 
