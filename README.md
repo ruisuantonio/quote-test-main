@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries. — Amelia Earhart
+> **Citacao:** The successful warrior is the average man, with laser-like focus. — Bruce Lee
 
 fim do arquivo
 

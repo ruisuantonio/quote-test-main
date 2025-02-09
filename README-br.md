@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Todo mundo tem oceanos para voar, se tiverem o coração para fazê -lo. É imprudente? Talvez. Mas o que os sonhos sabem dos limites. - Amelia Earhart
+> **Citacao:** O guerreiro bem-sucedido é o homem comum, com foco semelhante a um laser. - Bruce Lee
 
 fim do arquivo
 
