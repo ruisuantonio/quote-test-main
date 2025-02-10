@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O guerreiro bem-sucedido é o homem comum, com foco semelhante a um laser. - Bruce Lee
+> **Citacao:** Uma pessoa inteligente transforma grandes problemas em pequenos e os mais pequenos em nenhum.  - Provérbio chinês
 
 fim do arquivo
 

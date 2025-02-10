@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The successful warrior is the average man, with laser-like focus. — Bruce Lee
+> **Citacao:** A clever person turns great troubles into little ones, and little ones into none at all.  — Chinese Proverb
 
 fim do arquivo
 
