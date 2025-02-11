@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A clever person turns great troubles into little ones, and little ones into none at all.  — Chinese Proverb
+> **Citacao:** Hope means hoping when everything seems hopeless. — Gilbert Chesterton
 
 fim do arquivo
 

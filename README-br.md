@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Uma pessoa inteligente transforma grandes problemas em pequenos e os mais pequenos em nenhum.  - Provérbio chinês
+> **Citacao:** A esperança significa esperar quando tudo parecer sem esperança. - Gilbert Chesterton
 
 fim do arquivo
 
