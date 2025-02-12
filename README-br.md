@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A esperança significa esperar quando tudo parecer sem esperança. - Gilbert Chesterton
+> **Citacao:** O caminho do sucesso é o caminho da busca contínua pelo conhecimento. — Napoleon Hill
 
 fim do arquivo
 

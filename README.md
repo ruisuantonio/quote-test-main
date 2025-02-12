@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Hope means hoping when everything seems hopeless. — Gilbert Chesterton
+> **Citacao:** The way of success is the way of continuous pursuit of knowledge. — Napoleon Hill
 
 fim do arquivo
 
