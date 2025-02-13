@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O caminho do sucesso é o caminho da busca contínua pelo conhecimento. — Napoleon Hill
+> **Citacao:** A única defesa contra o mundo é um conhecimento profundo dele. — John Locke
 
 fim do arquivo
 

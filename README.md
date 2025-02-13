@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The way of success is the way of continuous pursuit of knowledge. — Napoleon Hill
+> **Citacao:** The only defense against the world is a thorough knowledge of it. — John Locke
 
 fim do arquivo
 
