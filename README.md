@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The only defense against the world is a thorough knowledge of it. — John Locke
+> **Citacao:** Those who know, do. Those that understand, teach. — Aristotle
 
 fim do arquivo
 

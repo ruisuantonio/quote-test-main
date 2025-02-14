@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A única defesa contra o mundo é um conhecimento profundo dele. — John Locke
+> **Citacao:** Aqueles que sabem, sabem. Aqueles que entendem, ensinam. - Aristóteles
 
 fim do arquivo
 
