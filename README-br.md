@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Aqueles que sabem, sabem. Aqueles que entendem, ensinam. - Aristóteles
+> **Citacao:** Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 fim do arquivo
 
