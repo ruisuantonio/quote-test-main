@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Would you rather live your life according to the approval of others or aligned with your truth and your dreams? — Robin Sharma
+> **Citacao:** Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
 
 fim do arquivo
 
