@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Nothing that results in human progress is achieved with unanimous consent. — Christopher Columbus
+> **Citacao:** Creative endeavors are by their nature uncertain. — Robert Greene
 
 fim do arquivo
 

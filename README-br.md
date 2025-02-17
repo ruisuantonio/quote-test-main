@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Nada que resulte no progresso humano é alcançado com consentimento unânime. - Christopher Columbus
+> **Citacao:** Os empreendimentos criativos são por sua natureza incertos. - Robert Greene
 
 fim do arquivo
 
