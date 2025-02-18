@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Os empreendimentos criativos são por sua natureza incertos. - Robert Greene
+> **Citacao:** A vida deve ser tocada, não estrangulada.   - Ray Bradbury
 
 fim do arquivo
 

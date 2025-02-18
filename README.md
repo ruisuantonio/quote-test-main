@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Creative endeavors are by their nature uncertain. — Robert Greene
+> **Citacao:** Life should be touched, not strangled.   — Ray Bradbury
 
 fim do arquivo
 
