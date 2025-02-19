@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida deve ser tocada, não estrangulada.   - Ray Bradbury
+> **Citacao:** Incorpore o que você ensina e ensina apenas o que você incorporou. - Dan Millman
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life should be touched, not strangled.   — Ray Bradbury
+> **Citacao:** Embody what you teach, and teach only what you have embodied. — Dan Millman
 
 fim do arquivo
 
