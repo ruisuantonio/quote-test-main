@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Embody what you teach, and teach only what you have embodied. — Dan Millman
+> **Citacao:** You have to give up some of the old so that you can make room for the new. — Yanni
 
 fim do arquivo
 

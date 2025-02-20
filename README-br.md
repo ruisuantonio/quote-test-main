@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Incorpore o que você ensina e ensina apenas o que você incorporou. - Dan Millman
+> **Citacao:** Você tem que desistir de um pouco do antigo para poder abrir espaço para o novo. - Yanni
 
 fim do arquivo
 
