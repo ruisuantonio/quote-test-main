@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** You have to give up some of the old so that you can make room for the new. — Yanni
+> **Citacao:** Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. — Arnold Schwarzenegger
 
 fim do arquivo
 

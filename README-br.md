@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Você tem que desistir de um pouco do antigo para poder abrir espaço para o novo. - Yanni
+> **Citacao:** Tenha uma visão, confie em si mesmo, quebre algumas regras, ignore os opositores, não tenha medo de falhar. - Arnold Schwarzenegger
 
 fim do arquivo
 
