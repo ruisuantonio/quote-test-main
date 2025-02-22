@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Tenha uma visão, confie em si mesmo, quebre algumas regras, ignore os opositores, não tenha medo de falhar. - Arnold Schwarzenegger
+> **Citacao:** Uma mulher insatisfeita deve ter luxos. Mas uma mulher que ama um homem dormia em uma prancha. - D. H. Lawrence
 
 fim do arquivo
 

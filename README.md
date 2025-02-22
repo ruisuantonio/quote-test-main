@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. — Arnold Schwarzenegger
+> **Citacao:** A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board. — D. H. Lawrence
 
 fim do arquivo
 
