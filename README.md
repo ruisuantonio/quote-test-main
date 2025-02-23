@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board. — D. H. Lawrence
+> **Citacao:** You must welcome change as the rule but not as your ruler.  — Denis Waitley
 
 fim do arquivo
 
