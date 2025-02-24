@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** You must welcome change as the rule but not as your ruler.  — Denis Waitley
+> **Citacao:** To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. — Criss Jami
 
 fim do arquivo
 

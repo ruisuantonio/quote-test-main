@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Você deve dar as boas -vindas à mudança como regra, mas não como seu governante.  - Denis Waitley
+> **Citacao:** Compartilhar sua fraqueza é tornar -se vulnerável; Tornar -se vulnerável é mostrar sua força. - Criss Jami
 
 fim do arquivo
 
