@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. — Criss Jami
+> **Citacao:** When it hurts - observe. Life is trying to teach you something. — Anita Krizzan
 
 fim do arquivo
 

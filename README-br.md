@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Compartilhar sua fraqueza é tornar -se vulnerável; Tornar -se vulnerável é mostrar sua força. - Criss Jami
+> **Citacao:** Quando dói - observe. A vida está tentando te ensinar algo. - Anita Krizzan
 
 fim do arquivo
 
