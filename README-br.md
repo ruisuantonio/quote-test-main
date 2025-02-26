@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando dói - observe. A vida está tentando te ensinar algo. - Anita Krizzan
+> **Citacao:** Não há limitações para a mente, exceto aqueles que reconhecemos ... - Napoleon Hill
 
 fim do arquivo
 

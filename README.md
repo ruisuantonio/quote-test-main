@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When it hurts - observe. Life is trying to teach you something. — Anita Krizzan
+> **Citacao:** There are no limitations to the mind except those we acknowledge... — Napoleon Hill
 
 fim do arquivo
 
