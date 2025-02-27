@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** There are no limitations to the mind except those we acknowledge... — Napoleon Hill
+> **Citacao:** A person who does not read is no better than one cannot read. — Earl Nightingale
 
 fim do arquivo
 

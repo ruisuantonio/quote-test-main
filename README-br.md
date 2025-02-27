@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não há limitações para a mente, exceto aqueles que reconhecemos ... - Napoleon Hill
+> **Citacao:** Uma pessoa que não leu não é melhor do que se não pode ler. - Earl Nightingale
 
 fim do arquivo
 
