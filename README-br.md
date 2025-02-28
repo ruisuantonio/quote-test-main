@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Uma pessoa que não leu não é melhor do que se não pode ler. - Earl Nightingale
+> **Citacao:** A liberdade do desejo leva à paz interior. - Lao Tzu
 
 fim do arquivo
 

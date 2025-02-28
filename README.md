@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A person who does not read is no better than one cannot read. — Earl Nightingale
+> **Citacao:** Freedom from desire leads to inner peace. — Lao Tzu
 
 fim do arquivo
 
