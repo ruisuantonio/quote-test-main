@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Freedom from desire leads to inner peace. — Lao Tzu
+> **Citacao:** A hopeless man is a very desperate and dangerous man, almost a dead man. — Robert F. Kennedy
 
 fim do arquivo
 

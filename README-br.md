@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A liberdade do desejo leva à paz interior. - Lao Tzu
+> **Citacao:** Um homem sem esperança é um homem muito desesperado e perigoso, quase um homem morto. - Robert F. Kennedy
 
 fim do arquivo
 
