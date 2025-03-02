@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Um homem sem esperança é um homem muito desesperado e perigoso, quase um homem morto. - Robert F. Kennedy
+> **Citacao:** A maioria do que você deseja virá da minoria do que você faz. - Gary Keller
 
 fim do arquivo
 

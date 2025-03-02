@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A hopeless man is a very desperate and dangerous man, almost a dead man. — Robert F. Kennedy
+> **Citacao:** The majority of what you want will come from the minority of what you do. — Gary Keller
 
 fim do arquivo
 
