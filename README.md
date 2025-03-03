@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The majority of what you want will come from the minority of what you do. — Gary Keller
+> **Citacao:** The highest level of wisdom is when you not only accept but love adversity. — Maxime Lagace
 
 fim do arquivo
 

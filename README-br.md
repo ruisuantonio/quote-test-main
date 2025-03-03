@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A maioria do que você deseja virá da minoria do que você faz. - Gary Keller
+> **Citacao:** O mais alto nível de sabedoria é quando você não apenas aceita, mas ama as adversidades. - Lagace Maxime
 
 fim do arquivo
 
