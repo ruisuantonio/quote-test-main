@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** O mais alto nível de sabedoria é quando você não apenas aceita, mas ama as adversidades. - Lagace Maxime
+> **Citacao:** A vida sem amor é como uma árvore sem flores ou frutas. - Kahlil Gibran
 
 fim do arquivo
 

@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** The highest level of wisdom is when you not only accept but love adversity. — Maxime Lagace
+> **Citacao:** Life without love is like a tree without blossoms or fruit. — Kahlil Gibran
 
 fim do arquivo
 
