@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** A vida sem amor é como uma árvore sem flores ou frutas. - Kahlil Gibran
+> **Citacao:** Quando a mente estiver calma, com que rapidez, quão suave, quão lindamente você perceberá tudo. - Paramahansa Yogananda
 
 fim do arquivo
 

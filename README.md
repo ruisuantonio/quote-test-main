@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Life without love is like a tree without blossoms or fruit. — Kahlil Gibran
+> **Citacao:** When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. — Paramahansa Yogananda
 
 fim do arquivo
 
