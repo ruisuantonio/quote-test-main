@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. — Paramahansa Yogananda
+> **Citacao:** A hut full of laughter is richer than a palace full of sadness. — Zen Proverb
 
 fim do arquivo
 

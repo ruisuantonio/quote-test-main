@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando a mente estiver calma, com que rapidez, quão suave, quão lindamente você perceberá tudo. - Paramahansa Yogananda
+> **Citacao:** Uma cabana cheia de risadas é mais rica que um palácio cheio de tristeza. - Zen Provérbio
 
 fim do arquivo
 
