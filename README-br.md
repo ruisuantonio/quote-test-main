@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Uma cabana cheia de risadas é mais rica que um palácio cheio de tristeza. - Zen Provérbio
+> **Citacao:** Não se engajar na ignorância é a sabedoria.  - Bodhidharma
 
 fim do arquivo
 

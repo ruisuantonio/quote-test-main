@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** A hut full of laughter is richer than a palace full of sadness. — Zen Proverb
+> **Citacao:** Not engaging in ignorance is wisdom.  — Bodhidharma
 
 fim do arquivo
 
