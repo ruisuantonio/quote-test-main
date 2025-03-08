@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não se engajar na ignorância é a sabedoria.  - Bodhidharma
+> **Citacao:** Quando você faz uma escolha, muda o futuro. - Deepak Chopra
 
 fim do arquivo
 

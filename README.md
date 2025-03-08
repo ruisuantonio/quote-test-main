@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Not engaging in ignorance is wisdom.  — Bodhidharma
+> **Citacao:** When you make a choice, you change the future. — Deepak Chopra
 
 fim do arquivo
 
