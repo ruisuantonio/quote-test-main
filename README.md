@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** When you make a choice, you change the future. — Deepak Chopra
+> **Citacao:** Do not bite at the bait of pleasure, till you know there is no hook beneath it. — Thomas Jefferson
 
 fim do arquivo
 

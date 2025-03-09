@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Quando você faz uma escolha, muda o futuro. - Deepak Chopra
+> **Citacao:** Não morda a isca do prazer, até que você saiba que não há gancho embaixo dela. - Thomas Jefferson
 
 fim do arquivo
 
