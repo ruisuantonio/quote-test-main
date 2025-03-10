@@ -1,6 +1,6 @@
 # Citacao do dia fournace
 
-> **Citacao:** Não morda a isca do prazer, até que você saiba que não há gancho embaixo dela. - Thomas Jefferson
+> **Citacao:** Aquele que não pode mais fazer uma pausa para se perguntar e ficar extasiado com admiração, é tão bom quanto morto; Seus olhos estão fechados.  - Albert Einstein
 
 fim do arquivo
 

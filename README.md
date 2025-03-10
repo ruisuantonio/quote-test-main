@@ -1,6 +1,6 @@
 # Daily Quote
 
-> **Citacao:** Do not bite at the bait of pleasure, till you know there is no hook beneath it. — Thomas Jefferson
+> **Citacao:** He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.  — Albert Einstein
 
 fim do arquivo
 
